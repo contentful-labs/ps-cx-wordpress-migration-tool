@@ -1,0 +1,25 @@
+{
+  "name": "wordpress-to-text",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@contentful/rich-text-from-markdown": "^15.6.2",
+    "contentful": "^9.0.3",
+    "contentful-management": "^7.32.1",
+    "fast-xml-parser": "^3.19.0",
+    "html-to-text": "^8.0.0",
+    "js-base64": "^3.7.2",
+    "moment": "^2.29.1",
+    "request": "^2.88.2",
+    "turndown": "^7.1.1",
+    "uuid": "^3.4.0",
+    "xml-reader": "^2.4.3",
+    "xml2js": "^0.4.23"
+  }
+}
