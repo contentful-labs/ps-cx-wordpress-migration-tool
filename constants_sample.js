@@ -1,7 +1,7 @@
 module.exports = {
 
-     spaceId: '8hq8guzcncfs',
+     spaceId: '<space_id>',
      environment: 'master',
-     accessToken: 'CFPAT-IrNTYqfsxeNzf-a6zD-5i4Xf87o9VQqefjPY52HnZSA',
+     accessToken: '<token>',
      wordpressFile: './data/wordpress.xml'
 }
