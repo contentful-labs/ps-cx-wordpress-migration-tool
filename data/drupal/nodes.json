@@ -1,0 +1,611 @@
+[
+    {
+      "vid": "637137",
+      "uid": "361",
+      "title": "eSignatures for Taxes and Accounting",
+      "log": "Edited by dervilla.oreilly.",
+      "status": "1",
+      "comment": "0",
+      "promote": "0",
+      "sticky": "0",
+      "vuuid": "e5ee4cfc-468e-4353-aaec-e8194163537b",
+      "nid": "188971",
+      "type": "html_page",
+      "language": "en-CA",
+      "created": "1445854195",
+      "changed": "1644966231",
+      "tnid": "104876",
+      "translate": "0",
+      "uuid": "5ca59b36-e9aa-4d87-b00c-b6c7e49dc5cd",
+      "revision_timestamp": "1644966231",
+      "revision_uid": "28746",
+      "field_body_no_summary": {
+        "und": [
+          {
+            "value": "<div class=\"banner-text-img\">[[{\"fid\":\"21791\",\"view_mode\":\"banner_large\",\"fields\":{\"format\":\"banner_large\",\"field_file_image_alt_text[und][0][value]\":\"An accountant compares records on a device with a colleague looking through a book\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"banner_large\",\"field_file_image_alt_text[und][0][value]\":\"An accountant compares records on a device with a colleague looking through a book\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"An accountant compares records on a device with a colleague looking through a book\",\"class\":\"media-element file-banner-large\",\"data-delta\":\"1\"}}]]\r\n\t<div class=\"container centered\">\r\n\t\t<div class=\"banner-text\">\r\n\t\t\t<h1>Save time and stay compliant</h1>\r\n\r\n\t\t\t<p class=\"show-tablet\">Meet your clients' legal, financial and tax needs faster with DocuSign for accounting and tax</p>\r\n\t\t\t<a class=\"btn btn-big btn-cyan\" data-ga=\"accounting taxes|cta|hero try docusign free\" href=\"https://secure.docusign.com/trial?tgr=com-trial-Industry\">Try DocuSign Free</a></div>\r\n\t</div>\r\n</div>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<div class=\"container\">\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-sm-8\">\r\n\t\t\t<h2 class=\"section-title\">Stop chasing paper</h2>\r\n\r\n\t\t\t<p class=\"intro\">DocuSign enables accountants and tax specialists to get necessary signatures faster than ever, while still meeting strict legal requirements. Now you can turn around documents in hours—not days</p>\r\n\r\n\t\t\t<div class=\"centered\"><a class=\"btn btn-fixed\" ga-data=\"demo|industry\" href=\"/demo\">Quick Demo</a></div>\r\n\r\n\t\t\t<p class=\"hide-desktop hide-tablet\">&nbsp;</p>\r\n\t\t</div>\r\n\r\n\t\t<div class=\"col-sm-4 center-img anchor-tabs\"><a href=\"#part\">[[{\"fid\":\"11861\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"2\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"height\":\"165\",\"width\":\"280\",\"class\":\"media-element file-default\",\"data-delta\":\"2\"}}]]</a></div>\r\n\t</div>\r\n\r\n\t<p>&nbsp;</p>\r\n\r\n\t<div class=\"separator__up\">&nbsp;</div>\r\n\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-sm-8 col-xs-12\">\r\n\t\t\t<h3 class=\"no-top-margin\">Faster than faxing</h3>\r\n\r\n\t\t\t<p class=\"section-subtitle\"><strong>Gain critical speed when deadlines are looming.</strong> DocuSign lets you send documents for electronic signature, saving time and hassle. No more waiting for clients to print PDFs, sign them, and then return them by fax or mail. With DocuSign, you can turn documents around in hours instead of days, so you can focus on client work instead of on tracking documents.</p>\r\n\t\t</div>\r\n\r\n\t\t<div class=\"col-sm-4 hide-mobile\">[[{\"fid\":\"11866\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Faster than faxing icon\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"3\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Faster than faxing icon\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Faster than faxing icon\",\"height\":\"258\",\"width\":\"272\",\"class\":\"media-element file-default\",\"data-delta\":\"3\"}}]]</div>\r\n\t</div>\r\n\r\n\t<p class=\"hide-tablet hide-desktop\">&nbsp;</p>\r\n\r\n\t<div class=\"separator__plus\">&nbsp;</div>\r\n\r\n\t<p class=\"hide-tablet hide-desktop\">&nbsp;</p>\r\n\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-sm-4 hide-mobile\">[[{\"fid\":\"11871\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"SSecure and private icon\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"4\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"SSecure and private icon\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"SSecure and private icon\",\"height\":\"275\",\"width\":\"289\",\"class\":\"media-element file-default\",\"data-delta\":\"4\"}}]]</div>\r\n\r\n\t\t<div class=\"col-sm-8 col-xs-12\">\r\n\t\t\t<h3 class=\"no-top-margin\">Secure and private</h3>\r\n\r\n\t\t\t<p class=\"section-subtitle\"><strong>Use secure authentication to protect you and your clients.</strong> With today’s rampant identity theft, we’re all concerned about privacy and security. Your customers want the assurance that their documents won’t be shared or stolen and that their signatures can’t be forged. DocuSign’s eSignature lets you send documents electronically, instead of leaving them sitting in the mail or on the fax machine. And our secure authentication helps protect against fraud.</p>\r\n\t\t</div>\r\n\t</div>\r\n\r\n\t<p class=\"hide-tablet hide-desktop\">&nbsp;</p>\r\n\r\n\t<div class=\"separator__plus\">&nbsp;</div>\r\n\r\n\t<p class=\"hide-tablet hide-desktop\">&nbsp;</p>\r\n\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-sm-8 col-xs-12\">\r\n\t\t\t<h3 class=\"no-top-margin\">Convenient for clients</h3>\r\n\r\n\t\t\t<p class=\"section-subtitle\"><strong>Give your customers the modern experience they expect.</strong> DocuSign lets your clients receive and sign documents on their computers or mobile devices. The process is simple and streamlined, so you can provide your customers with the best service possible.</p>\r\n\t\t</div>\r\n\r\n\t\t<div class=\"col-sm-4 hide-mobile\">[[{\"fid\":\"11876\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Convenient for clients icon\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"5\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Convenient for clients icon\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Convenient for clients icon\",\"height\":\"275\",\"width\":\"289\",\"class\":\"media-element file-default\",\"data-delta\":\"5\"}}]]</div>\r\n\t</div>\r\n\r\n\t<p class=\"hide-tablet hide-desktop\">&nbsp;</p>\r\n\r\n\t<div class=\"separator__plus\">&nbsp;</div>\r\n\r\n\t<p class=\"hide-tablet hide-desktop\">&nbsp;</p>\r\n\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-sm-4 hide-mobile\">[[{\"fid\":\"11881\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"CCompliant with regulations icon\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"6\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"CCompliant with regulations icon\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"CCompliant with regulations icon\",\"height\":\"275\",\"width\":\"289\",\"class\":\"media-element file-default\",\"data-delta\":\"6\"}}]]</div>\r\n\r\n\t\t<div class=\"col-sm-8 col-xs-12\">\r\n\t\t\t<h3 class=\"no-top-margin\">Compliant with regulations</h3>\r\n\r\n\t\t\t<p class=\"section-subtitle\"><strong>Ensure that you and your clients are in compliance.</strong> Your business is all about saving your customers money while keeping them compliant with federal and provincial regulations. We meet ISO 27001 and SSAE 16 standards, and more. Plus, when you use DocuSign, your documents are saved electronically and retain an audit trail for added transparency.</p>\r\n\t\t</div>\r\n\t</div>\r\n\r\n\t<p>&nbsp;</p>\r\n\r\n\t<div class=\"separator__up\">&nbsp;</div>\r\n\r\n\t<h2 class=\"section-title centered\">Use cases</h2>\r\n\r\n\t<p class=\"section-subtitle centered\">DocuSign can be used to send and sign many of the documents commonly required for tax and accounting purposes, including:</p>\r\n\r\n\t<div class=\"col-md-11 col-md-offset-1\">\r\n\t\t<div class=\"row\">\r\n\t\t\t<div class=\"col-sm-4 col-xs-12\">\r\n\t\t\t\t<ul class=\"no-margins content-ul-list\">\r\n\t\t\t\t\t<li>Personal tax forms (T183, Auth Rep, TP-1000, MR69...)</li>\r\n\t\t\t\t\t<li>Corporate tax forms (T183Corp, CO1000, MR69…)</li>\r\n\t\t\t\t\t<li>Asset purchase agreements</li>\r\n\t\t\t\t</ul>\r\n\t\t\t</div>\r\n\r\n\t\t\t<div class=\"col-sm-4 col-xs-12\">\r\n\t\t\t\t<ul class=\"no-margins content-ul-list\">\r\n\t\t\t\t\t<li>Confidentiality agreements</li>\r\n\t\t\t\t\t<li>Engagement letters</li>\r\n\t\t\t\t\t<li>Practice continuation agreements</li>\r\n\t\t\t\t</ul>\r\n\t\t\t</div>\r\n\r\n\t\t\t<div class=\"col-sm-4 col-xs-12\">\r\n\t\t\t\t<ul class=\"no-margins content-ul-list\">\r\n\t\t\t\t\t<li>Employment contracts</li>\r\n\t\t\t\t\t<li>Power of attorney agreements</li>\r\n\t\t\t\t\t<li>Independent contractor agreements</li>\r\n\t\t\t\t</ul>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t</div>\r\n\r\n\t<p>&nbsp;</p>\r\n\r\n\t<div class=\"separator__up\" id=\"part\">&nbsp;</div>\r\n\r\n\t<div class=\"quote-block\">\r\n\t\t<p class=\"quote-text\">“With DocuSign, the entire process can be conducted seamlessly in the cloud—eliminating paper, hassles and wasted time. DocuSign is the final mile in completing the loan process.”</p>\r\n\r\n\t\t<p class=\"section-subtitle\"><strong>Karen Stroup</strong>, Vice President of Product Management for Intuit’s Professional Tax Group</p>\r\n\t</div>\r\n\r\n\t<p>&nbsp;</p>\r\n\r\n\t<div class=\"separator__up\">&nbsp;</div>\r\n\r\n\t<h2 class=\"section-title centered\">Resources</h2>\r\n\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-sm-4\">\r\n\t\t\t<div class=\"resource-item\"><span alt=\"Video icon\" class=\"icon-product-video\"></span>\r\n\r\n\t\t\t\t<div class=\"resource-text\">\r\n\t\t\t\t\t<h5>On-Demand Webinar</h5>\r\n\t\t\t\t\t<a data-ga=\"accounting tax|link click|resource on-demand webinar\" href=\"/on-demand-webinar/digital-transformation-in-accounting-get-ready-for-the-upcoming-tax-season\" title=\"Digital Transformation in Accounting - Get ready for the upcoming tax season\">Digital Transformation in Accounting - Get ready for the upcoming tax season</a></div>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\r\n\t\t<div class=\"col-sm-4\">\r\n\t\t\t<div class=\"resource-item\"><span alt=\"Press release icon\" class=\"icon-whitepaper\"></span>\r\n\r\n\t\t\t\t<div class=\"resource-text\">\r\n\t\t\t\t\t<h5>Solution Showcase</h5>\r\n\t\t\t\t\t<a data-ga=\"accounting tax|link click|resource intuit partner\" href=\"https://www.docusign.com/partner/intuit-profile\">Manage client signatures digitally in Intuit Profile</a></div>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\r\n\t\t<div class=\"col-sm-4\">\r\n\t\t\t<div class=\"resource-item\"><span alt=\"Blog icon\" class=\"icon-bubble\"></span>\r\n\r\n\t\t\t\t<div class=\"resource-text\">\r\n\t\t\t\t\t<h5>Blog</h5>\r\n\t\t\t\t\t<a data-ga=\"accounting tax|link click|resource blog\" href=\"/blog/revenue-canada-esignature-t183\">Canada Revenue Agency approves eSignatures for T183 and T183Corp forms</a></div>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t</div>\r\n\r\n\t<p>&nbsp;</p>\r\n\r\n\t<div class=\"separator__up\">&nbsp;</div>\r\n\r\n\t<h2 class=\"section-title centered\">Get started</h2>\r\n\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-sm-4 border-right-tablet\">\r\n\t\t\t<div class=\"start-box centered\">\r\n\t\t\t\t<p>Have an Intuit product? Start using DocuSign from the product.</p>\r\n\t\t\t\t<a class=\"btn btn-wide-fixed btn-yellow\" data-ga=\"accounting tax|link click|get started intuit esignature\" href=\"https://profile.intuit.ca/esignature/\" target=\"_blank\">Intuit eSignature</a></div>\r\n\t\t</div>\r\n\r\n\t\t<div class=\"col-sm-4 border-right-tablet\">\r\n\t\t\t<div class=\"start-box centered\">\r\n\t\t\t\t<p>Need DocuSign for more than tax forms or have more than 10 users?</p>\r\n\t\t\t\t<a class=\"btn btn-wide-fixed\" data-ga=\"accounting tax|link click|get started contact sales\" href=\"/contact-sales\">Contact Sales</a></div>\r\n\t\t</div>\r\n\r\n\t\t<div class=\"col-sm-4\">\r\n\t\t\t<div class=\"start-box centered no-border\">\r\n\t\t\t\t<p>Want to try DocuSign for free? Get your free 30-day trial.</p>\r\n\t\t\t\t<a class=\"btn btn-wide-fixed btn-cyan\" data-ga=\"accounting tax|link click|get started free trial\" href=\"http://secure.docusign.com/trial?tgr=com-trial-Industry\">Start a Free Trial</a></div>\r\n\t\t</div>\r\n\t</div>\r\n</div>\r\n",
+            "format": "full_html"
+          }
+        ]
+      },
+      "title_field": {
+        "en-CA": [
+          {
+            "value": "eSignatures for Taxes and Accounting",
+            "format": null,
+            "safe_value": "eSignatures for Taxes and Accounting"
+          }
+        ]
+      },
+      "field_breadcrumb_value": {
+        "en-CA": [
+          {
+            "value": "Accounting and Tax",
+            "format": null,
+            "safe_value": "Accounting and Tax"
+          }
+        ]
+      },
+      "field_path_breadcrumb": {
+        "en-CA": [
+          {
+            "tid": "1051"
+          }
+        ]
+      },
+      "field_acquia_lift_keywords": [],
+      "field_acquia_lift_personas": [],
+      "field_acquia_lift_sections": [],
+      "translations": {
+        "original": null,
+        "data": [],
+        "#node_export_object": "1"
+      },
+      "title_original": "eSignatures for Taxes and Accounting",
+      "entity_translation_handler_id": "node-html_page-eid-188971-637137",
+      "metatags": {
+        "en-CA": {
+          "title": {
+            "value": "eSignatures for Taxes and Accounting | DocuSign"
+          },
+          "description": {
+            "value": "Electronically sign your T183, T183CORP, employment contracts, and other tax, legal and accounting forms fast, securely and conveniently with DocuSign."
+          },
+          "canonical": {
+            "value": {
+              "link": "[current-page:url:absolute]",
+              "display_canonical": 0
+            }
+          },
+          "og:title": {
+            "value": "eSignatures for Taxes and Accounting | DocuSign"
+          },
+          "og:description": {
+            "value": "Electronically sign your T183, T183CORP, employment contracts, and other tax, legal and accounting forms fast, securely and conveniently with DocuSign."
+          },
+          "twitter:title": {
+            "value": "eSignatures for Taxes and Accounting | DocuSign"
+          },
+          "twitter:description": {
+            "value": "Electronically sign your T183, T183CORP, employment contracts, and other tax, legal and accounting forms fast, securely and conveniently with DocuSign."
+          }
+        }
+      },
+      "path": {
+        "pid": "212271",
+        "source": "node/188971",
+        "alias": "solutions/industries/accounting-tax",
+        "language": "en-CA"
+      },
+      "panelizer": {
+        "full": {
+          "entity_type": "node",
+          "entity_id": "188971",
+          "revision_id": "637137",
+          "view_mode": "full",
+          "did": "131841",
+          "name": null,
+          "css_id": "",
+          "css_class": "",
+          "css": "",
+          "no_blocks": "0",
+          "title_element": "H2",
+          "link_to_entity": "1",
+          "extra": [],
+          "pipeline": "ipe",
+          "contexts": [],
+          "relationships": [],
+          "display": {
+            "args": [],
+            "content": {
+              "774269": {
+                "pid": "774269",
+                "did": "131841",
+                "panel": "breadcrumbs",
+                "type": "page_breadcrumb",
+                "subtype": "page_breadcrumb",
+                "shown": "1",
+                "access": [],
+                "configuration": [],
+                "cache": [],
+                "style": {
+                  "settings": null
+                },
+                "css": [],
+                "extras": [],
+                "position": "0",
+                "locks": [],
+                "uuid": "0b01e842-8547-4adf-8776-887530f73a19",
+                "#node_export_object": "1"
+              },
+              "774270": {
+                "pid": "774270",
+                "did": "131841",
+                "panel": "main-content",
+                "type": "entity_field",
+                "subtype": "node:field_body_no_summary",
+                "shown": "1",
+                "access": [],
+                "configuration": {
+                  "label": "hidden",
+                  "formatter": "text_default",
+                  "delta_limit": 0,
+                  "delta_offset": "0",
+                  "delta_reversed": false,
+                  "formatter_settings": [],
+                  "context": "panelizer",
+                  "override_title": 0,
+                  "override_title_text": "",
+                  "override_title_heading": "h2"
+                },
+                "cache": [],
+                "style": {
+                  "settings": null
+                },
+                "css": [],
+                "extras": [],
+                "position": "0",
+                "locks": [],
+                "uuid": "a06a223c-c23d-4ac2-a226-73951f1b5ff2",
+                "#node_export_object": "1"
+              },
+              "774271": {
+                "pid": "774271",
+                "did": "131841",
+                "panel": "main-title",
+                "type": "node_title",
+                "subtype": "node_title",
+                "shown": "0",
+                "access": [],
+                "configuration": {
+                  "link": 0,
+                  "markup": "h1",
+                  "id": "",
+                  "class": "",
+                  "context": "panelizer",
+                  "override_title": 1,
+                  "override_title_text": "",
+                  "override_title_heading": "h2"
+                },
+                "cache": [],
+                "style": {
+                  "settings": null
+                },
+                "css": [],
+                "extras": [],
+                "position": "0",
+                "locks": [],
+                "uuid": "7508324a-5efe-4c4e-bc02-17d735a6ad5a",
+                "#node_export_object": "1"
+              },
+              "774272": {
+                "pid": "774272",
+                "did": "131841",
+                "panel": "social-buttons",
+                "type": "dcs_social_sharing",
+                "subtype": "dcs_social_sharing",
+                "shown": "0",
+                "access": [],
+                "configuration": [],
+                "cache": [],
+                "style": {
+                  "settings": null
+                },
+                "css": [],
+                "extras": [],
+                "position": "0",
+                "locks": [],
+                "uuid": "5ac570fe-1774-464f-95a9-253ed2abcc4b",
+                "#node_export_object": "1"
+              }
+            },
+            "panels": {
+              "breadcrumbs": [
+                "774269"
+              ],
+              "main-content": [
+                "774270"
+              ],
+              "main-title": [
+                "774271"
+              ],
+              "social-buttons": [
+                "774272"
+              ]
+            },
+            "incoming_content": null,
+            "css_id": null,
+            "context": [],
+            "did": "131841",
+            "renderer": "standard",
+            "layout": "one_column_html_page",
+            "layout_settings": [],
+            "panel_settings": {
+              "style_settings": {
+                "default": null,
+                "center": null,
+                "system-messages": null,
+                "content": null,
+                "breadcrumbs": null,
+                "main-title": null,
+                "social-buttons": null,
+                "main-content": null
+              }
+            },
+            "cache": [],
+            "title": "%node:title",
+            "hide_title": "1",
+            "title_pane": "0",
+            "uuid": "52679a96-efd6-4c94-8e73-d943db3e5dfa",
+            "storage_type": "panelizer_entity",
+            "storage_id": "node:188971:full",
+            "#node_export_object": "1"
+          },
+          "#node_export_object": "1"
+        }
+      },
+      "name": "Alex.Arnaut",
+      "picture": "0",
+      "data": "b:0;",
+      "workbench_access": {
+        "681": "681"
+      },
+      "menu": null,
+      "node_export_drupal_version": "7",
+      "workbench_moderation_state_current": "published",
+      "workbench_moderation_state_new": "published",
+      "node_export_dependency": [
+        {
+          "type": "taxonomy_term",
+          "id": "1051",
+          "delta": 0,
+          "property": "tid",
+          "module": "taxonomy",
+          "field_name": "field_path_breadcrumb",
+          "langcode": "en-CA",
+          "uuid": "bdd69a44-4531-4560-8397-221ad1f4212b"
+        },
+        {
+          "type": "user",
+          "id": "361",
+          "delta": 0,
+          "property": "uid",
+          "module": "node",
+          "uuid": "7f0e53a2-556d-4d57-a53e-ebd6207b04eb"
+        },
+        {
+          "type": "user",
+          "id": "28746",
+          "delta": 0,
+          "property": "revision_uid",
+          "module": "node",
+          "uuid": "80b02260-cf7b-432b-9b9e-8e09477f0a75"
+        },
+        {
+          "type": "node",
+          "id": "104876",
+          "delta": 0,
+          "property": "tnid",
+          "module": "node",
+          "uuid": "508f6e07-60d7-4271-9229-09ccfc71d8cd"
+        }
+      ],
+      "#node_export_object": "1"
+    },
+    {
+      "vid": "570066",
+      "uid": "361",
+      "title": "eSignatures for Taxes and Accounting",
+      "log": "Edited by dervilla.oreilly.",
+      "status": "1",
+      "comment": "0",
+      "promote": "0",
+      "sticky": "0",
+      "vuuid": "6e616540-318c-4a3d-a912-75d647bde7d9",
+      "nid": "104876",
+      "type": "html_page",
+      "language": "en",
+      "created": "1443087970",
+      "changed": "1606130361",
+      "tnid": "104876",
+      "translate": "0",
+      "uuid": "508f6e07-60d7-4271-9229-09ccfc71d8cd",
+      "revision_timestamp": "1606130361",
+      "revision_uid": "28746",
+      "field_body_no_summary": {
+        "und": [
+          {
+            "value": "<div class=\"banner-text-img\">[[{\"fid\":\"21791\",\"view_mode\":\"banner_large\",\"fields\":{\"format\":\"banner_large\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"banner_large\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-banner-large\",\"data-delta\":\"1\"}}]]\r\n\t<div class=\"container centered\">\r\n\t\t<div class=\"banner-text\">\r\n\t\t\t<img class='alignright wp-image-3747 size-medium' alt='alt' src='https://www.docusign.com/sites/default/files/faster_than_faxing_icon_1.jpg' width='225' height='300' /><h1>Save time and stay compliant</h1>\r\n\r\n\t\t\t<p class=\"show-tablet\">Meet your clients' legal, financial and tax needs faster with DocuSign for accounting and tax</p>\r\n\t\t\t<a class=\"btn btn-big btn-cyan\" href=\"https://secure.docusign.com/trial?tgr=com-trial-Industry\">Try DocuSign Free</a></div>\r\n\t</div>\r\n</div>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<div class=\"container\">\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-sm-12\">\r\n\t\t\t<h2 class=\"section-title\">Stop chasing paper</h2>\r\n\r\n\t\t\t<p class=\"intro\">DocuSign enables accountants and tax specialists to get necessary signatures faster than ever, while still meeting strict legal requirements. Now you can turn around documents in hours—not days.</p>\r\n\r\n\t\t\t<p class=\"hide-desktop hide-tablet\">&nbsp;</p>\r\n\t\t</div>\r\n\t</div>\r\n\r\n\t<p>&nbsp;</p>\r\n\r\n\t<div class=\"separator__up\">&nbsp;</div>\r\n\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-sm-8 col-xs-12\">\r\n\t\t\t<h3 class=\"no-top-margin\">Faster than faxing</h3>\r\n\r\n\t\t\t<p class=\"section-subtitle\"><strong>Gain critical speed when deadlines are looming.</strong> DocuSign lets you send documents for electronic signature, saving time and hassle. No more waiting for clients to print PDFs, sign them, and then return them by fax or mail. With DocuSign, you can turn documents around in hours instead of days, so you can focus on client work instead of on tracking documents.</p>\r\n\t\t</div>\r\n\r\n\t\t<div class=\"col-sm-4 hide-mobile\">[[{\"fid\":\"11866\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"3\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"height\":\"258\",\"width\":\"272\",\"class\":\"media-element file-default\",\"data-delta\":\"3\"}}]]</div>\r\n\t</div>\r\n\r\n\t<p class=\"hide-tablet hide-desktop\">&nbsp;</p>\r\n\r\n\t<div class=\"separator__plus\">&nbsp;</div>\r\n\r\n\t<p class=\"hide-tablet hide-desktop\">&nbsp;</p>\r\n\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-sm-4 hide-mobile\">[[{\"fid\":\"11871\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"4\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"height\":\"275\",\"width\":\"289\",\"class\":\"media-element file-default\",\"data-delta\":\"4\"}}]]</div>\r\n\r\n\t\t<div class=\"col-sm-8 col-xs-12\">\r\n\t\t\t<h3 class=\"no-top-margin\">Secure and private</h3>\r\n\r\n\t\t\t<p class=\"section-subtitle\"><strong>Use secure authentication to protect you and your clients.</strong> With today’s rampant identity theft, we’re all concerned about privacy and security. Your customers want the assurance that their documents won’t be shared or stolen and that their signatures can’t be forged. DocuSign’s digital transaction management lets you send documents electronically, instead of leaving them sitting in the mail or on the fax machine. And our secure authentication helps protect against fraud.</p>\r\n\t\t</div>\r\n\t</div>\r\n\r\n\t<p class=\"hide-tablet hide-desktop\">&nbsp;</p>\r\n\r\n\t<div class=\"separator__plus\">&nbsp;</div>\r\n\r\n\t<p class=\"hide-tablet hide-desktop\">&nbsp;</p>\r\n\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-sm-8 col-xs-12\">\r\n\t\t\t<h3 class=\"no-top-margin\">Convenient for clients</h3>\r\n\r\n\t\t\t<p class=\"section-subtitle\"><strong>Give your customers the modern experience they expect.</strong> DocuSign lets your clients receive and sign documents on their computers or mobile devices. The process is simple and streamlined, so you can provide your customers with the best service possible.</p>\r\n\t\t</div>\r\n\r\n\t\t<div class=\"col-sm-4 hide-mobile\">[[{\"fid\":\"11876\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"5\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"height\":\"275\",\"width\":\"289\",\"class\":\"media-element file-default\",\"data-delta\":\"5\"}}]]</div>\r\n\t</div>\r\n\r\n\t<p class=\"hide-tablet hide-desktop\">&nbsp;</p>\r\n\r\n\t<div class=\"separator__plus\">&nbsp;</div>\r\n\r\n\t<p class=\"hide-tablet hide-desktop\">&nbsp;</p>\r\n\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-sm-4 hide-mobile\">[[{\"fid\":\"11881\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"6\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"height\":\"275\",\"width\":\"289\",\"class\":\"media-element file-default\",\"data-delta\":\"6\"}}]]</div>\r\n\r\n\t\t<div class=\"col-sm-8 col-xs-12\">\r\n\t\t\t<h3 class=\"no-top-margin\">Compliant with regulations</h3>\r\n\r\n\t\t\t<p class=\"section-subtitle\"><strong>Ensure that you and your clients are in compliance.</strong> Your business is all about saving your customers money while keeping them compliant with federal and state regulations. We meet the latest <a href=\"https://www.irs.gov/e-file-providers/frequently-asked-questions-for-irs-efile-signature-authorization\" target=\"_blank\">IRS regulations</a>, ISO 27001 and SSAE 16 standards, and more. Plus, when you use DocuSign, your documents are saved electronically and retain an audit trail for added transparency.</p>\r\n\t\t</div>\r\n\t</div>\r\n\r\n\t<p>&nbsp;</p>\r\n\r\n\t<div class=\"separator__up\">&nbsp;</div>\r\n\r\n\t<h2 class=\"section-title centered\">Use Cases</h2>\r\n\r\n\t<p class=\"section-subtitle centered\">DocuSign can be used to send and sign many of the documents commonly required for tax and accounting purposes, including:</p>\r\n\r\n\t<div class=\"col-md-11 col-md-offset-1\">\r\n\t\t<div class=\"row\">\r\n\t\t\t<div class=\"col-sm-4 col-xs-12\">\r\n\t\t\t\t<ul class=\"no-margins content-ul-list\">\r\n\t\t\t\t\t<li>IRS-approved tax forms</li>\r\n\t\t\t\t\t<li>LLC formation</li>\r\n\t\t\t\t\t<li>Asset purchase agreements</li>\r\n\t\t\t\t</ul>\r\n\t\t\t</div>\r\n\r\n\t\t\t<div class=\"col-sm-4 col-xs-12\">\r\n\t\t\t\t<ul class=\"no-margins content-ul-list\">\r\n\t\t\t\t\t<li>Confidentiality agreements</li>\r\n\t\t\t\t\t<li>Engagement letters</li>\r\n\t\t\t\t\t<li>Practice continuation agreements</li>\r\n\t\t\t\t</ul>\r\n\t\t\t</div>\r\n\r\n\t\t\t<div class=\"col-sm-4 col-xs-12\">\r\n\t\t\t\t<ul class=\"no-margins content-ul-list\">\r\n\t\t\t\t\t<li>Employment contracts</li>\r\n\t\t\t\t\t<li>Power of attorney agreements</li>\r\n\t\t\t\t\t<li>Independent contractor agreements</li>\r\n\t\t\t\t</ul>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t</div>\r\n\r\n\t<p>&nbsp;</p>\r\n\r\n\t<div class=\"separator__up\" id=\"part\">&nbsp;</div>\r\n\r\n\t<h2 class=\"section-title centered\">Partner</h2>\r\n\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-sm-4 col-xs-12 center-img\">[[{\"fid\":\"11886\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"7\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"height\":\"60\",\"width\":\"209\",\"class\":\"media-element file-default\",\"data-delta\":\"7\"}}]]</div>\r\n\r\n\t\t<div class=\"col-sm-8 col-xs-12\">\r\n\t\t\t<h3>Use DocuSign with Intuit to send and sign tax documents</h3>\r\n\r\n\t\t\t<p><strong>Save time during the busy tax season with secure electronic signing.</strong> Intuit has partnered with DocuSign to offer Intuit eSignature. Now, you can send and sign IRS Forms 8878 and 8879 electronically—right from your Intuit product. DocuSign ensures compliance with the latest IRS regulations for e-signing. And it helps prevent identity theft by securely sending encrypted documents and using authentication to verify the signer.</p>\r\n\r\n\t\t\t<p>When you use <a href=\"http://accountants.intuit.com/tax/lacerte/add-ons/esignature.jsp\" target=\"_blank\"> Intuit eSignature </a>, it’s faster and easier for you and your clients to sign tax documents. And DocuSign provides an audit trail and keeps a copy of every signed document, making it easier for you to follow up or to reference documents later.</p>\r\n\r\n\t\t\t<div class=\"col-sm-offset-0\">\r\n\t\t\t\t<div class=\"hide-tablet centered\"><a class=\"btn btn-medium\" href=\"http://accountants.intuit.com/tax/lacerte/add-ons/esignature.jsp\" target=\"_blank\">Intuit eSignature</a></div>\r\n\t\t\t\t<a class=\"hide-mobile btn btn-medium\" href=\"http://accountants.intuit.com/tax/lacerte/add-ons/esignature.jsp\" target=\"_blank\">Intuit eSignature</a></div>\r\n\t\t</div>\r\n\t</div>\r\n\r\n\t<div class=\"quote-block\">\r\n\t\t<p class=\"quote-text\">“With DocuSign, the entire process can be conducted seamlessly in the cloud—eliminating paper, hassles and wasted time. DocuSign is the final mile in completing the loan process.”</p>\r\n\r\n\t\t<p class=\"section-subtitle\"><strong>Karen Stroup</strong>, Vice President of Product Management for Intuit’s Professional Tax Group</p>\r\n\t</div>\r\n\r\n\t<p>&nbsp;</p>\r\n\r\n\t<div class=\"separator__up\">&nbsp;</div>\r\n\r\n\t<h2 class=\"section-title centered\">Resources</h2>\r\n\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-sm-4\">\r\n\t\t\t<div class=\"resource-item\"><span class=\"icon-product-video\"></span>\r\n\r\n\t\t\t\t<div class=\"resource-text\">\r\n\t\t\t\t\t<h5>Video</h5>\r\n\t\t\t\t\t<a class=\"fancybox-media fancybox.iframe\" data-fancybox-title=\"<h3>Save valuable time this tax season with Intuit eSignature, powered by DocuSign</h3>\" href=\"https://youtu.be/embed/iZ7BBDv50kQ\" title=\"DocuSign Helps Special Olympics Digitize Business Operations\">Save valuable time this tax season with Intuit eSignature, powered by DocuSign </a></div>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\r\n\t\t<div class=\"col-sm-4\">\r\n\t\t\t<div class=\"resource-item\"><span class=\"icon-whitepaper\"></span>\r\n\r\n\t\t\t\t<div class=\"resource-text\">\r\n\t\t\t\t\t<h5>Press Release</h5>\r\n\t\t\t\t\t<a href=\"/press-releases/intuit-integrates-docusign%E2%80%99s-electronic-signature-technology-into-professional-tax\">Intuit integrates DocuSign into professional tax products</a></div>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\r\n\t\t<div class=\"col-sm-4\">\r\n\t\t\t<div class=\"resource-item\"><span class=\"icon-bubble\"></span>\r\n\r\n\t\t\t\t<div class=\"resource-text\">\r\n\t\t\t\t\t<h5>Blog</h5>\r\n\t\t\t\t\t<a href=\"/blog/electronic-signature-tax-forms\">Electronic Signature for Tax Forms</a></div>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t</div>\r\n\r\n\t<p>&nbsp;</p>\r\n\r\n\t<div class=\"separator__up\">&nbsp;</div>\r\n\r\n\t<h2 class=\"section-title centered\">Get Started</h2>\r\n\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-sm-4 border-right-tablet\">\r\n\t\t\t<div class=\"start-box centered\">\r\n\t\t\t\t<p>Have an Intuit product? Start using DocuSign from the product.</p>\r\n\t\t\t\t<a class=\"btn btn-wide-fixed btn-yellow\" href=\"http://accountants.intuit.com/tax/lacerte/add-ons/esignature.jsp\" target=\"_blank\">Intuit eSignature</a></div>\r\n\t\t</div>\r\n\r\n\t\t<div class=\"col-sm-4 border-right-tablet\">\r\n\t\t\t<div class=\"start-box centered\">\r\n\t\t\t\t<p>Need DocuSign for more than tax forms or have more than 10 users?</p>\r\n\t\t\t\t<a class=\"btn btn-wide-fixed\" href=\"/company/contact-us#sales\">Contact Sales</a></div>\r\n\t\t</div>\r\n\r\n\t\t<div class=\"col-sm-4\">\r\n\t\t\t<div class=\"start-box centered no-border\">\r\n\t\t\t\t<p>Want to try DocuSign for free? Get your free 30-day trial.</p>\r\n\t\t\t\t<a class=\"btn btn-wide-fixed btn-cyan\" data-ga=\"trial|industry-getstarted\" href=\"http://secure.docusign.com/trial?tgr=com-trial-Industry\">Start a free trial</a></div>\r\n\t\t</div>\r\n\t</div>\r\n</div>\r\n",
+            "format": "full_html"
+          }
+        ]
+      },
+      "title_field": {
+        "en": [
+          {
+            "value": "eSignatures for Taxes and Accounting",
+            "format": null,
+            "safe_value": "eSignatures for Taxes and Accounting"
+          }
+        ]
+      },
+      "field_breadcrumb_value": {
+        "en": [
+          {
+            "value": "Accounting and Tax",
+            "format": null,
+            "safe_value": "Accounting and Tax"
+          }
+        ]
+      },
+      "field_path_breadcrumb": {
+        "en": [
+          {
+            "tid": "1051"
+          }
+        ]
+      },
+      "field_acquia_lift_keywords": [],
+      "field_acquia_lift_personas": [],
+      "field_acquia_lift_sections": [],
+      "translations": {
+        "original": null,
+        "data": [],
+        "#node_export_object": "1"
+      },
+      "title_original": "eSignatures for Taxes and Accounting",
+      "entity_translation_handler_id": "node-html_page-eid-104876-570066",
+      "metatags": {
+        "en": {
+          "description": {
+            "value": "Electronically sign your tax returns, IRS forms, employment contracts, and other tax, legal and accounting forms fast, securely and conveniently with DocuSign."
+          },
+          "canonical": {
+            "value": {
+              "link": "[current-page:url:absolute]",
+              "display_canonical": 0
+            }
+          }
+        }
+      },
+      "path": {
+        "pid": "118856",
+        "source": "node/104876",
+        "alias": "solutions/industries/accounting-tax",
+        "language": "en"
+      },
+      "panelizer": {
+        "full": {
+          "entity_type": "node",
+          "entity_id": "104876",
+          "revision_id": "570066",
+          "view_mode": "full",
+          "did": "125076",
+          "name": null,
+          "css_id": "",
+          "css_class": "",
+          "css": "",
+          "no_blocks": "0",
+          "title_element": "H2",
+          "link_to_entity": "1",
+          "extra": [],
+          "pipeline": "ipe",
+          "contexts": [],
+          "relationships": [],
+          "display": {
+            "args": [],
+            "content": {
+              "727776": {
+                "pid": "727776",
+                "did": "125076",
+                "panel": "breadcrumbs",
+                "type": "page_breadcrumb",
+                "subtype": "page_breadcrumb",
+                "shown": "1",
+                "access": [],
+                "configuration": [],
+                "cache": [],
+                "style": {
+                  "settings": null
+                },
+                "css": [],
+                "extras": [],
+                "position": "0",
+                "locks": [],
+                "uuid": "0b01e842-8547-4adf-8776-887530f73a19",
+                "#node_export_object": "1"
+              },
+              "727781": {
+                "pid": "727781",
+                "did": "125076",
+                "panel": "main-content",
+                "type": "entity_field",
+                "subtype": "node:field_body_no_summary",
+                "shown": "1",
+                "access": [],
+                "configuration": {
+                  "label": "hidden",
+                  "formatter": "text_default",
+                  "delta_limit": 0,
+                  "delta_offset": "0",
+                  "delta_reversed": false,
+                  "formatter_settings": [],
+                  "context": "panelizer",
+                  "override_title": 0,
+                  "override_title_text": "",
+                  "override_title_heading": "h2"
+                },
+                "cache": [],
+                "style": {
+                  "settings": null
+                },
+                "css": [],
+                "extras": [],
+                "position": "0",
+                "locks": [],
+                "uuid": "a06a223c-c23d-4ac2-a226-73951f1b5ff2",
+                "#node_export_object": "1"
+              },
+              "727786": {
+                "pid": "727786",
+                "did": "125076",
+                "panel": "main-title",
+                "type": "node_title",
+                "subtype": "node_title",
+                "shown": "0",
+                "access": [],
+                "configuration": {
+                  "link": 0,
+                  "markup": "h1",
+                  "id": "",
+                  "class": "",
+                  "context": "panelizer",
+                  "override_title": 1,
+                  "override_title_text": "",
+                  "override_title_heading": "h2"
+                },
+                "cache": [],
+                "style": {
+                  "settings": null
+                },
+                "css": [],
+                "extras": [],
+                "position": "0",
+                "locks": [],
+                "uuid": "7508324a-5efe-4c4e-bc02-17d735a6ad5a",
+                "#node_export_object": "1"
+              },
+              "727791": {
+                "pid": "727791",
+                "did": "125076",
+                "panel": "social-buttons",
+                "type": "dcs_social_sharing",
+                "subtype": "dcs_social_sharing",
+                "shown": "0",
+                "access": [],
+                "configuration": [],
+                "cache": [],
+                "style": {
+                  "settings": null
+                },
+                "css": [],
+                "extras": [],
+                "position": "0",
+                "locks": [],
+                "uuid": "5ac570fe-1774-464f-95a9-253ed2abcc4b",
+                "#node_export_object": "1"
+              }
+            },
+            "panels": {
+              "breadcrumbs": [
+                "727776"
+              ],
+              "main-content": [
+                "727781"
+              ],
+              "main-title": [
+                "727786"
+              ],
+              "social-buttons": [
+                "727791"
+              ]
+            },
+            "incoming_content": null,
+            "css_id": null,
+            "context": [],
+            "did": "125076",
+            "renderer": "standard",
+            "layout": "one_column_html_page",
+            "layout_settings": [],
+            "panel_settings": {
+              "style_settings": {
+                "default": null,
+                "center": null,
+                "system-messages": null,
+                "content": null,
+                "breadcrumbs": null,
+                "main-title": null,
+                "social-buttons": null,
+                "main-content": null
+              }
+            },
+            "cache": [],
+            "title": "%node:title",
+            "hide_title": "1",
+            "title_pane": "0",
+            "uuid": "52679a96-efd6-4c94-8e73-d943db3e5dfa",
+            "storage_type": "panelizer_entity",
+            "storage_id": "node:104876:full",
+            "#node_export_object": "1"
+          },
+          "#node_export_object": "1"
+        }
+      },
+      "name": "Alex.Arnaut",
+      "picture": "0",
+      "data": "b:0;",
+      "workbench_access": {
+        "681": "681"
+      },
+      "menu": null,
+      "node_export_drupal_version": "7",
+      "workbench_moderation_state_current": "published",
+      "workbench_moderation_state_new": "published",
+      "node_export_dependency": [
+        {
+          "type": "taxonomy_term",
+          "id": "1051",
+          "delta": 0,
+          "property": "tid",
+          "module": "taxonomy",
+          "field_name": "field_path_breadcrumb",
+          "langcode": "en",
+          "uuid": "bdd69a44-4531-4560-8397-221ad1f4212b"
+        },
+        {
+          "type": "user",
+          "id": "361",
+          "delta": 0,
+          "property": "uid",
+          "module": "node",
+          "uuid": "7f0e53a2-556d-4d57-a53e-ebd6207b04eb"
+        },
+        {
+          "type": "user",
+          "id": "28746",
+          "delta": 0,
+          "property": "revision_uid",
+          "module": "node",
+          "uuid": "80b02260-cf7b-432b-9b9e-8e09477f0a75"
+        },
+        {
+          "type": "node",
+          "id": "104876",
+          "delta": 0,
+          "property": "tnid",
+          "module": "node",
+          "uuid": "508f6e07-60d7-4271-9229-09ccfc71d8cd"
+        }
+      ],
+      "#node_export_object": "1"
+    }
+  ]

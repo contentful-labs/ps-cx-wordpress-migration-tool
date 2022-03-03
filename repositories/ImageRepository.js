@@ -57,13 +57,15 @@ class ImageRepository {
     }
 
     async downloadImage(url) {
+
+        const cleanedUrl = url.trim('`')
         const imageFolder = `${TEMP_IMAGE_FOLDER}`
         await this.ensureDirectoryExistence(imageFolder)
-        const downloadFileLocation = `${imageFolder}/` + path.basename(url)
+        const downloadFileLocation = `${imageFolder}/` + path.basename(cleanedUrl)
 
         try {
             await axios({
-                url,
+                url: cleanedUrl,
                 responseType: 'stream',
             }).then(
                 (response) =>
@@ -76,13 +78,13 @@ class ImageRepository {
             )
 
         } catch (exp) {
-            console.error(`unable to download url: ${url}`)
+            console.error(`unable to download url: ${cleanedUrl}`)
             console.error(`exception: ${exp}`)
-            return new MapEntry(url)
+            return new MapEntry(cleanedUrl)
 
         }
 
-        return new MapEntry(url, downloadFileLocation)
+        return new MapEntry(cleanedUrl, downloadFileLocation)
 
 
     }

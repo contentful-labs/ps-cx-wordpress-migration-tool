@@ -1,24 +1,25 @@
 const constants = require("./constants");
 const { ContentfulRepository } = require("./repositories/ContentfulRepository");
-const { WordpressRepository } = require("./repositories/WordPressRepository");
-const masterList = require('./masterlist.json');
+const { DrupalRepository } = require("./repositories/DrupalRepository");
 
 (async () => {
-    const wordpressRepo = new WordpressRepository(constants.wordpressFile)
-    const contentfulRepo = new ContentfulRepository()
 
+    try {
+        const drupalRepo = new DrupalRepository()
+        const contentfulRepo = new ContentfulRepository()
 
+        const nodes = await drupalRepo.getAllNodes()
 
-    const articles = await wordpressRepo.getAllArticles()
-
-    for (article of articles) {
-
-        try{
-        await contentfulRepo.saveArticle(article)
-        }catch(exp){
-            console.error(`unable to process article ${article.title}`)
-            console.error(exp)
+        for(const node of nodes){
+            await contentfulRepo.saveDurpalNode(node)
         }
+
+        console.log(nodes)
+
+
+    } catch (exp) {
+        console.error(exp)
     }
+
 
 })()

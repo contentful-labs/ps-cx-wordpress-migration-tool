@@ -1,5 +1,5 @@
 const path = require('path')
-const { Article } = require("../domain/Article");
+const { DrupalNode } = require("../domain/DrupalNode");
 const { ImageRepository } = require("./ImageRepository");
 const contentful = require('contentful-management');
 const constants = require("../constants");
@@ -29,6 +29,56 @@ class ContentfulRepository {
     const space = await client.getSpace(this.spaceId)
     return await space.getEnvironment(this.environment)
   }
+
+ /**
+   * 
+   * @param {DrupalNode} node 
+   */
+  async saveDurpalNode(node) {
+
+    const env = await this.getEnv()
+
+    // start processing the images - we need it before RTE transformation
+
+    if (node.images.length > 0) {
+      
+      const imageMap = await imageRepo.downloadImages(node.images)
+
+      // now go through all the imageMaps and add the entryIds
+      for (const mapEntry of imageMap.data) {
+        if (mapEntry.downloadSuccessful()) {
+
+          const entryId = await this.saveImage(mapEntry.url, mapEntry.downloadLocation)
+          mapEntry.addEntryId(entryId)
+        }
+      }
+
+      const rteContent = await node.getRTEContent(imageMap)
+
+      const drupalNode = {
+        fields: {
+          nid: {
+            'en-US': node.nid,
+          },
+          title: {
+            'en-US': node.title,
+          },
+          content: {
+            'en-US': rteContent,
+          },
+        },
+      }
+
+      const entry = await env.createEntry('drupalNode', drupalNode)
+      await entry.publish()
+
+      console.log(drupalNode)
+
+    }
+
+  }
+
+
 
 
   /**
