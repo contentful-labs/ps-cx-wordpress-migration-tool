@@ -15,7 +15,7 @@
     "fast-xml-parser": "^3.19.0",
     "html-to-text": "^8.0.0",
     "js-base64": "^3.7.2",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "request": "^2.88.2",
     "turndown": "^7.1.1",
     "uuid": "^3.4.0",
