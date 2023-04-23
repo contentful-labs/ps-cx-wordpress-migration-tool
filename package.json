@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@contentful/rich-text-from-markdown": "^15.6.2",
+    "@contentful/rich-text-from-markdown": "^15.16.4",
     "contentful": "^9.0.3",
     "contentful-management": "^7.32.1",
     "fast-xml-parser": "^3.19.0",
