@@ -1,6 +1,6 @@
 const constants = require("./constants");
 const { ContentfulRepository } = require("./repositories/ContentfulRepository");
-const { WordpressRepository } = require("./repositories/WordPressRepository");
+const { WordpressRepository } = require("./repositories/WordpressRepository.js");
 const masterList = require('./masterlist.json');
 
 (async () => {
